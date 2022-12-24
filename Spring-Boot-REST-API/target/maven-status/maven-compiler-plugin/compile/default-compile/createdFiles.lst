@@ -1,0 +1,6 @@
+com\wasim\rest\api\SpringBootRestApiApplication.class
+com\wasim\rest\api\controller\StudentController.class
+com\wasim\rest\api\service\StudentServiceImpl.class
+com\wasim\rest\api\entity\Student.class
+com\wasim\rest\api\service\StudentService.class
+com\wasim\rest\api\repository\StudentRepository.class
